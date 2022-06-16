@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.titulo{
+    text-align: center;
+}
+.texto{
+    text-align: center;
+    margin-top: 10px;
+}
+.formulario{
+    max-width: 1000px;
+    margin: auto;
+}
